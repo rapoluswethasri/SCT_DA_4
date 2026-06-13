@@ -137,12 +137,6 @@ Summarizes major findings and business recommendations.
 
 ---
 
-## 📷 Dashboard Preview
-
-*(Add a screenshot of your Power BI dashboard here)*
-
----
-
 ## 📌 Outcome
 
 This project demonstrates how Exploratory Data Analysis (EDA) can be used to evaluate marketing effectiveness, identify high-performing channels, and support data-driven decision-making for marketing budget allocation and campaign optimization.
